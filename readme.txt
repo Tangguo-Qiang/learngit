@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 Now a git hub setup in github.com at Dec.11,2017.
+Trying to use ssh.
