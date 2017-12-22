@@ -9,3 +9,4 @@ Trying to use ssh.
 Creating a new branch is quick AND simple.
 
 测试commit中对中文的支持效果。
+
