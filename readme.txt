@@ -15,3 +15,5 @@ No fast forward merge.
 Test stash.
 
 Test merge and fix the confilct.
+
+Release version 1.0 @branch release.
