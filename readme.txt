@@ -13,3 +13,5 @@ Creating a new branch is quick AND simple.
 No fast forward merge.
 
 Test stash.
+
+Test merge and fix the confilct.
