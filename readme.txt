@@ -17,3 +17,5 @@ Test stash.
 Test merge and fix the confilct.
 
 Release version 1.0 @branch release.
+
+go over git @20180512
